@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 This is file B. //Making chnages below
 
 Chnage made from local device.
+=======
+This is file B.
+
+Change made to File B from git hub repo
+>>>>>>> bc53430d3ef32115085e6dd7b8d1b4b1cc3bc4b2
